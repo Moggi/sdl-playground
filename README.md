@@ -37,13 +37,12 @@ chmod +x compile.sh
 # to see a flashing blue screen with some inputs on terminal
 ```
 
-
 ## Thanks
 
 - Tim Jones   
-SDLTutorials.com
+SDLTutorials.com   
 https://github.com/MetaCipher/the-sdl-engine
 
-- Benny
-https://github.com/BennyQBD/ModernOpenGLTutorial
+- Benny   
+https://github.com/BennyQBD/ModernOpenGLTutorial   
 https://www.youtube.com/playlist?list=PLEETnX-uPtBUbVOok816vTl1K9vV1GgH5
