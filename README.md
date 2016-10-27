@@ -34,8 +34,11 @@ chmod +x compile.sh
 # where `<filename>` can be
 # p1 ~ p9 or main or playground
 ./compile.sh main
-# to see a flashing blue screen with some inputs on terminal
+# to see a flashing screen with some inputs on terminal
 ```
+
+![main preview](assets/preview.png)
+
 
 ## Thanks
 
