@@ -22,7 +22,7 @@ This was made on a MacBook Pro (mid 2012)
 with an Intel HD 4000
 
 Compiled over OS X Mavericks (2014)
-and OS X El Capitan (2016) with clang++
+and macOS Sierra (2016) with clang++
 
 __Libraries installed with [HomeBrew](http://brew.sh)__
 
