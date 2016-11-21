@@ -1,5 +1,5 @@
 # sdl-playground
-Some testes made to learn SDL + OpenGL
+Some tests made to learn SDL + OpenGL
 
 Everything from December 2014
 
@@ -25,6 +25,10 @@ Compiled over OS X Mavericks (2014)
 and macOS Sierra (2016) with clang++
 
 __Libraries installed with [HomeBrew](http://brew.sh)__
+
+```sh
+brew install sdl2 sdl2_image sdl2_ttf sdl2_mixer glm glew
+```
 
 #### Usage
 
